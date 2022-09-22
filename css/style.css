@@ -43,6 +43,7 @@ p {
 
 
 .submit-color {
+  /* 1_change_submit_color_blue */
   background-color: #17a2b8;
   color: white;
   opacity: 0.9;
